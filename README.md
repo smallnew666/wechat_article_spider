@@ -85,5 +85,6 @@ MIT License
 
 交流群
 
-![IMG_0055](https://github.com/user-attachments/assets/ee2c03f7-29b5-482a-88af-1f95ee85b592)
+![IMG_0055](https://github.com/user-attachments/assets/1a46ed5e-aa22-4fdc-bc53-cbcadac0cc0a)
+
 
