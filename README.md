@@ -23,7 +23,7 @@ wechat_spider/
 
 1. 安装依赖：
 ```bash
-pip install requests pillow urllib3
+pip install -r requirements.txt
 ```
 
 2. 运行程序：
@@ -77,3 +77,6 @@ python wechat_spider.py
 ## License
 
 MIT License
+
+有想学习 AI公众号文章 写作的朋友可以加入小报童
+![image](https://github.com/user-attachments/assets/4cfc78d7-e99d-447e-9cc6-24ac09315236)
