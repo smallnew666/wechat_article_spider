@@ -80,5 +80,10 @@ python wechat_spider.py
 MIT License
 
 有想学习 AI公众号文章 写作的朋友可以加入小报童
+
 <img width="300" alt="小报童" src="https://github.com/user-attachments/assets/4cfc78d7-e99d-447e-9cc6-24ac09315236" />
+
+交流群
+
+![IMG_0055](https://github.com/user-attachments/assets/ee2c03f7-29b5-482a-88af-1f95ee85b592)
 
