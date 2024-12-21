@@ -54,7 +54,7 @@ class WeChatSpider:
             print(f"获取token失败: {e}")
             self.token = None
 
-    def search_gzh(self, query, begin=0, count=50):
+    def search_gzh(self, query, begin=0, count=10):
         """搜索公众号"""
         if not self.token:
             self._update_token()
@@ -86,7 +86,7 @@ class WeChatSpider:
             print(f"搜索请失败: {e}")
             return None
 
-    def get_articles(self, fakeid, begin=0, count=5):
+    def get_articles(self, fakeid, begin=0, count=10):
         """获取公众号文章列表"""
         if not self.token:
             self._update_token()
