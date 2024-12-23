@@ -83,8 +83,5 @@ MIT License
 
 <img width="300" alt="小报童" src="https://github.com/user-attachments/assets/4cfc78d7-e99d-447e-9cc6-24ac09315236" />
 
-交流群
-
-![IMG_0055](https://github.com/user-attachments/assets/1a46ed5e-aa22-4fdc-bc53-cbcadac0cc0a)
 
 
